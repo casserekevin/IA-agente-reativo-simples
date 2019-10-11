@@ -8,6 +8,7 @@ public class ArtificialIntelligence {
 
 	public static void main(String[] args) throws InterruptedException {
 
+		//Main
 		Labyrinth labirinto = new Labyrinth(4);
 		labirinto.print();
 
